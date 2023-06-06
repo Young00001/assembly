@@ -1,2 +1,2 @@
 # assembly
-Understanding the fundamentals of assembly
+Writing a "Hello World!" Script using Assembly!

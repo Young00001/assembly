@@ -1,2 +1,2 @@
 # assembly
-Writing a "Hello World!" script using Assembly!
+Programming using x86-32 Assembly!

@@ -1,10 +1,9 @@
+; remove_dir.asm
 ;
+; Author: Calen Young
 ;
-;
-;
-;
-;
-;
+; Date: 28-June-2023
+; 
 
 
 global _start

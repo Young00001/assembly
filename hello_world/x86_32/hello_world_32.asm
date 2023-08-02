@@ -1,4 +1,4 @@
-; hello_world.asm
+; hello world in 32-bit assembly for Linux
 ;
 ; Author: Calen Young
 ;
